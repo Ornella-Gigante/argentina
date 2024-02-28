@@ -1,0 +1,11 @@
+<!ELEMENT rss (channel)>
+<!ELEMENT channel (title, description, link; language, item+)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT link (#PCDATA)>
+<!ELEMENT language (#PCDATA)>
+<!ELEMENT item (title, description, link;category)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT link (#PCDATA)>
+<!ELEMENT category (#PCDATA)>

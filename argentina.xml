@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="argentina.xsl"?>
+<?argentina.xml xmlns:xsl=" http://www.w3.org/1999/XSL/Transform"?>
+<argentina>
+  <nombre>Argentina</nombre>
+  <poblacion>44938712</poblacion>
+  <continente>América del Sur</continente>
+  <capital>
+    <nombre>Buenos Aires</nombre>
+    <coordenadas>
+      <latitud>-34.61315</latitud>
+      <longitud>-58.37723</longitud>
+    </coordenadas>
+  </capital>
+  <fotografias>
+    <fotografia>
+      <nombre>Perito Moreno Glacier</nombre>
+      <descripcion>El glaciar Perito Moreno es un glaciar situado en el Parque Nacional Los Glaciares, en la provincia de Santa Cruz, Argentina.</descripcion>
+      <url>https://cdn.optigest.net/lusanova_pt/202207/PKT_55_62cc0739075ae.jpg</url>
+    </fotografia>
+    <fotografia>
+      <nombre>Iguazu Falls</nombre>
+      <descripcion>Las Cataratas del Iguazú son un conjunto de cataratas que se localizan sobre el río Iguazú, en el límite entre la provincia argentina de Misiones y el estado brasileño de Paraná.</descripcion>
+      <url>https://www.dekowizja.pl/img2/1000/61792257/obraz-na-plotnie-park-piekny-niebo-wodospad-tropikalny.jpg</url>
+    </fotografia>
+    <fotografia>
+      <nombre>Mount Fitz Roy</nombre>
+      <descripcion>El monte Fitz Roy es una montaña de la cordillera de los Andes, en el límite entre Argentina y Chile.</descripcion>
+      <url>https://lh5.googleusercontent.com/_SBeUJAjsE8E/TYQhjHvIVxI/AAAAAAAApWw/sTVqlxVv3uE/s640/DSC00623.JPG</url>
+    </fotografia>
+  </fotografias>
+</argentina>

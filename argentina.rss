@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias de Argentina</title>
+    <description>Noticias recientes sobre Argentina</description>
+    <link>https://www.clarin.com</link>
+    <language>es-es</language>
+    <item>
+      <title>¿Qué pasó, Javier?</title>
+      <description>Las conversaciones de Javier Milei con Mauricio Macri.</description>
+      <link>https://www.clarin.com/politica/paso-javier-dialogos-mauricio-macri-javier-milei-trama-oculta-acuerdo_0_cfToERvoj8.html</link>
+      <category>Politica</category>
+    </item>
+    <item>
+      <title>Alerta en Mendoza</title>
+      <description>Un gran incendio se desata en Challao.</description>
+      <link>https://www.clarin.com/sociedad/alerta-mendoza-gran-incendio-desato-zona-challao-viento-zonda-complica-accionar-bomberos_0_1VGigeJYa3.html</link>
+      <category>Sociedad</category>
+    </item>
+    <item>
+      <title>Dólar Blue</title>
+      <description>A cuánto cotizará el dólar blue este domingo 29 de octubre</description>
+      <link>https://www.clarin.com/economia/dolar-blue-hoy-cotiza-domingo-29-octubre_0_0EMYZbgQtA.html</link>
+      <category>Economía</category>
+    </item>
+    <item>
+      <title>Carmen Barbieri, antes de su regreso a la TV</title>
+      <description>A sus 68 años, ella hará su gran vuelta al mundo del espectáculo.</description>
+      <link>https://www.clarin.com/espectaculos/carmen-barbieri-regreso-tv-abierta-68-anos-amor-hoy-necesita-tiempo-ahora_0_FknUz0zorp.html</link>
+      <category>Espectáculos</category>
+    </item>
+    <item>
+      <title>Violencia en la  Primera Nacional</title>
+      <link>https://www.clarin.com/deportes/violencia-primera-nacional-hinchas-chacarita-atacaron-fuegos-artificiales-policia-eliminacion_0_eguqxqaYav.html</link>
+      <description>Los hinchas de Chacarita atacaron con fuegos artificiales a la policía tras su eliminación</description>
+      <category>Deportes</category>
+    </item>
+  </channel>
+</rss>
